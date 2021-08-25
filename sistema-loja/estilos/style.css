@@ -1,0 +1,67 @@
+.black{
+    background-color: black;
+}
+
+.cabecalho{
+    color: pink;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.info{
+    color: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.cabecalho p {
+    font-size: 20px;
+}
+
+.link1{
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.link2{
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.link3{
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.link4{
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.siga{
+    font-size: 20px;
+    color: white;
+}
+
+
+.redes img{
+    width: auto;
+    height: auto;
+    max-width: 100px;
+    max-height: 250px;
+    color: white;
+    background-color: white;
+    margin-right: 20px;
+}

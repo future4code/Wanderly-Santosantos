@@ -1,0 +1,69 @@
+.inicio{
+    background-color: black;
+}
+
+.title{
+    color: pink;
+    font-size: 17px;
+}
+
+.black{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.link1{
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.link2{
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.link3{
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.link4{
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.h2{
+    background-color: black;
+}
+
+.tabela{
+    background-color: black;
+    color: pink;
+    font-size: 20px;
+}
+
+.tabela td{
+    margin-left: 10px;
+}
+
+.tabela img{
+    width: auto;
+    height: auto;
+    max-width: 200px;
+    max-height: 350px;
+    color: white;
+    background-color: white;
+    margin-right: 50px;
+}
